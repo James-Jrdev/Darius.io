@@ -155,6 +155,9 @@ font-size: 24px;
     color: #0EB1D2;
     font-size: 37px;
 }
+.footer a:hover{
+    color: #40434E;
+}
 .foota p{
     color: #0EB1D2;
     font-size: 20px;
