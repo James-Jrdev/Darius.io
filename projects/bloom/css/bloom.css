@@ -32,6 +32,9 @@ h1{
     font-size: 30px;
     padding-right: 10px;
 }
+.topnav a:hover{
+    color: #e7718b;
+}
 @media (min-width: 768px) {
     .topnav h1{
     text-align: left;
@@ -70,6 +73,10 @@ h1{
     text-align: center;
     text-decoration: none;
     display: inline-block;
+}
+.main a:hover{
+    background-color: #fff;
+    color: #e7718b;
 }
 @media (min-width: 1024px) {
     .main ul{
@@ -142,6 +149,9 @@ h1{
     color: #fff;
     font-size: 30px;
     padding-right: 10px;
+}
+.footer a:hover{
+    color: #e7718b;
 }
 @media (min-width: 375px) {
     .footer p{
